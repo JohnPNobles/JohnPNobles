@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnPNobles
 - 👀 I’m interested in Data Science, Mathematics, Statistics
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently researching Machine Learning algorithms
+- 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me @jpndasc on Instagram
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
